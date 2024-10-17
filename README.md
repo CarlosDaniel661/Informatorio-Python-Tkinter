@@ -1,0 +1,1 @@
+Proyecto de una app de Control de gastos mensuales, con funcionalidades para registrar nuevos usuarios, agregar gastos y motivo de gastos, opción de exportar los mismos para posterior balance e informe, así mismo también cuenta con alertas al usuario sobre gastos que exceden el promedio. Todo desarrolado en Python utilizando Tkinter
